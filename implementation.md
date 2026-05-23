@@ -1,4 +1,4 @@
-# Fork setup — zen-pharma-backend CI/CD, ECR, GitOps, EKS, ArgoCD
+## Fork setup — zen-pharma-backend CI/CD, ECR, GitOps, EKS, ArgoCD
 
 This guide is for teams who **fork** (or copy) `zen-pharma-backend` and want GitHub Actions, AWS ECR, and GitOps-driven deploys to **their** AWS account and **their** repos. It aligns with [`CI-ARCHITECTURE.md`](./CI-ARCHITECTURE.md) in this repository and assumes infrastructure is provisioned using your **`zen-infra`** (or equivalent) Terraform/modules.
 
